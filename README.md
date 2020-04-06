@@ -1,5 +1,5 @@
-# Repository for the Face Recognition App.<br /> 
-Using React.js.<br />
+# Repository for the Face Recognition App<br /> 
+Using React.js<br />
 <br /><br /><br /><br />
 
 ----------------------------------------------------------------------
