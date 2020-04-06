@@ -1,6 +1,5 @@
-Repository for the Face Recognition App using React.js.<br />
-From Udemy course Zero To Mastery web development.<br />
-Teached by Andrei Neagoie. <br />
+# Repository for the Face Recognition.<br /> 
+App using React.js.<br />
 <br /><br /><br /><br />
 
 ----------------------------------------------------------------------
