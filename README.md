@@ -1,4 +1,4 @@
-# Repository for the Face Recognition App<br /> 
+# Repository for the Face Recognition App Frontend<br /> 
 Using React.js<br />
 <br /><br /><br /><br />
 
