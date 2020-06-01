@@ -12,10 +12,10 @@ import './App.css';
 const particlesOptions ={
   particles: {
     number: {
-      value: 100,
+      value: 30,
       density: {
         enable: true,
-        value_area: 500,
+        value_area: 800,
       }
     }
   }
