@@ -1,6 +1,10 @@
 # Repository for the Face Recognition App Frontend<br /> 
 Using React.js<br />
-<br /><br /><br /><br />
+<br />
+Backend: https://github.com/Esemega/facerecognitionbrain-api
+
+<br /><br /><br />
+
 
 ----------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
